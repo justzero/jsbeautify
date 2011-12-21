@@ -11,3 +11,6 @@ usage:
   <leader>ff
 or 
   bind the g:Jsbeautify() function to any short key you like
+
+#some fixed @ gongbing
+添加了修复js代码后替换<tab>为4个空格
